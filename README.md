@@ -5,8 +5,10 @@ Small script to connect using the 3G/4G SIMcard with Lenovo (probably others) la
 
 Edit the script and set your APN name and the device:
 
+```
 IFACE="wwp0s20u4";
 APN="Movistar";
+```
 
 ## Usage
 
